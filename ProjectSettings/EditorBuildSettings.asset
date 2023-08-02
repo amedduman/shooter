@@ -6,18 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Management.unity
+    path: Assets/_Game/Scenes/Management.unity
     guid: ca6b1fe34e4cf40109d5851412e4ab74
   - enabled: 1
-    path: Assets/Scenes/Player.unity
+    path: Assets/_Game/Scenes/Player.unity
     guid: 8c4a7af7cf3974e0493329da06c1ee44
   - enabled: 1
-    path: Assets/Scenes/GameplayIsland.unity
+    path: Assets/_Game/Scenes/GameplayIsland.unity
     guid: 15ddff0d25b6145b59d9fdd496905d05
   - enabled: 1
-    path: Assets/Scenes/EnvIsland.unity
+    path: Assets/_Game/Scenes/EnvIsland.unity
     guid: ea584ae8313b84872b481d0ae617e681
   - enabled: 1
-    path: Assets/Scenes/UI.unity
+    path: Assets/_Game/Scenes/UI.unity
     guid: b1d1b6408e9214f64820ba1578599f77
   m_configObjects: {}
